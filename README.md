@@ -1,2 +1,2 @@
-# praktikum_web_2[pertemuan 1-4]
+# praktikum_web_2
 
